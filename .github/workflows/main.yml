@@ -1,4 +1,4 @@
-name: CI/CD Parallel Jobs
+name: CI/CD Parallel Jobs GCP
 
 on:
   push:
